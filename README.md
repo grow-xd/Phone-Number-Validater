@@ -14,7 +14,7 @@ Coming on the program:
    *run setup.exe first
    *then start Phone_Validater_by_azinkyaop.exe
    * it will not show any screen as it is working in background
-   *as the checking is done it will be saved in valid_phone_numbers.txt file in the format "+19477625062(number)  <<< Telegram = @azinkyaop >>  CELLCO PARTNERSHIP DBA VERIZON(carrier)"
+   *as the checking is done it will be saved in valid_phone_numbers.txt file in the format "+19477625062(number) CELLCO PARTNERSHIP DBA VERIZON(carrier)"
                                                                                                                                 
    
    * currently it only checks for US(+1) Numbers
